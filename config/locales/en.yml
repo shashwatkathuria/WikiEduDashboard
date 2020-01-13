@@ -233,6 +233,7 @@ en:
     no_available: This course has no available articles.
     peer_review_count_tooltip: You should select %{total} articles to peer review.
     peer_review_link: Peer Review
+    peer_review_link_personalized: "%{username}'s Peer Review"
     remove: Remove
     reviewers: Reviewer(s)
     review_other: Assign a review
